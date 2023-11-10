@@ -3024,6 +3024,14 @@ const Users: User[] = [
     tags: ['opensource','product'],
   },
   {
+    title: 'O/A Notes',
+    description: 'Dive into the world of tech knowledge with O/A Notes',
+    preview: require('./showcase/oanotes.png'),
+    website: 'https://oanotes.vercel.app',
+    source: null,
+    tags: ['personal'],
+  },
+  {
     title: 'Dynamoose',
     description: 'A modeling tool for Amazon\'s DynamoDB',
     preview: null,
